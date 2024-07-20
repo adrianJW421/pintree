@@ -543,13 +543,6 @@
           },
           {
             "type": "link",
-            "addDate": 1715433972286,
-            "title": "收件箱 | zmbb220109@protonmail.com | Proton Mail",
-            "icon": "https://logo.clearbit.com/mail.proton.me",
-            "url": "https://mail.proton.me/u/0/inbox"
-          },
-          {
-            "type": "link",
             "addDate": 1716552826656,
             "title": "OpenAI",
             "icon": "https://logo.clearbit.com/openai.com",
@@ -734,13 +727,6 @@
                 "title": "Modding Tutorials - Souls Modding",
                 "icon": "https://logo.clearbit.com/soulsmodding.wikidot.com",
                 "url": "http://soulsmodding.wikidot.com/tutorial:main"
-              },
-              {
-                "type": "link",
-                "addDate": 1711554520000,
-                "title": "(2) 收件箱 | zmbb220109@protonmail.com | Proton Mail",
-                "icon": "https://logo.clearbit.com/mail.proton.me",
-                "url": "https://mail.proton.me/u/1/inbox/yaKCg8GQgonhahqcLq06CU0ufvG_4xB_R9ABMSk6MzLELyeI8yA9fZxLdLy7ZDRReufr8CZoaY9QQ7yNeIgluQ=="
               }
             ]
           },
@@ -1286,6 +1272,13 @@
                     ]
                   }
                 ]
+              },
+              {
+                "type": "link",
+                "addDate": 1721291516082,
+                "title": "Research Travel Grant",
+                "icon": "https://logo.clearbit.com/rtg.ust.hk",
+                "url": "http://rtg.ust.hk/"
               }
             ]
           },
